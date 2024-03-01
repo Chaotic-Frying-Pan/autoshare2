@@ -1,2 +1,2 @@
 touch ~/are
-echo "bash ~/autoshare/s" >> ~/are
+echo "bash ~/autoshare/letters/s" >> ~/are
