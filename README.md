@@ -17,4 +17,4 @@ Troubleshooting will likely have to be done on some computers using this project
 - Troubleshooting in Autoshare will end up with your Merlin folder being deleted, but not before doing a full backup of it on this repository in case something goes wrong
 - Deleting Merlin will NOT erase any progress or any actual missions because all of your Merlin data is stored on CoderMerlin servers
 - By the end of the troubleshooting, all of your progress on CoderMerlin will still be in your main `~/Merlin` folder, but in case you have trouble finding something, you can always check in your storage folder, where your Merlin backup will be saved.
-- The first and (usually) only step for troubleshooting is to do `bash ~/autoshare/{lowercase first letter of name}-troubleshoot`
+- The first and (usually) only step for troubleshooting is to do `bash ~/autoshare/troubleshoot/{lowercase first letter of name}`
