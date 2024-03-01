@@ -12,6 +12,9 @@ This is how to actually use Autoshare:
 - The first step to using Autoshare is to test out the main command, which is `sh ~/are`, spelling "share". except with a space, tilde, and slash in the middle
 - That command will send your Merlin folder to your friends instantly
 - The other thing this can do is share any other files. Simply add a file to `~/autoshare/{lowercase first letter of name}_storage` and do `sh ~/are` and it will get shared to your friends
+# Autoshare Replacements
+This is how to replace your Merlin folder with someone else's Merlin folder (not erasing any progress in previous missons):
+- Simply do `bash ~/autoshare/replacements/{lowercase first letter of person who is helping you}`
 # Autoshare Troubleshooting
 Troubleshooting will likely have to be done on some computers using this project. This is how you would do it (most likely):   
 - DO NOT DO THIS IF YOU ARE CURRENTLY HAVE PROGRESS IN A MISSION BUT HAVE NOT COMPLETED IT
