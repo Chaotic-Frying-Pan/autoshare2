@@ -1,4 +1,4 @@
 mkdir ~/autoshare/all_storage/$USER
 cp -r -f ~/Merlin ~/autoshare/all_storage/$USER/Merlin-replaced-by-S_BACKUP
 rm -r -f ~/Merlin
-cp -r -f ~/autoshare/S-MERLIN ~/Merlin
+cp -r -f ~/autoshare/MERLIN/S-MERLIN ~/Merlin
