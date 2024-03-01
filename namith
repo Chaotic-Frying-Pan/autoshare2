@@ -1,7 +1,7 @@
-cd ~/ghsetup
-rm -r -f ~/ghsetup/N-MERLIN
-cp -r ~/Merlin ~/ghsetup/N-MERLIN
-touch ~/ghsetup/N-MERLIN/bugfix
+cd ~/autoshare
+rm -r -f ~/autoshare/N-MERLIN
+cp -r ~/Merlin ~/autoshare/N-MERLIN
+touch ~/autoshare/N-MERLIN/bugfix
 git add --all
 git commit -m "avogadros numero"
 git push
