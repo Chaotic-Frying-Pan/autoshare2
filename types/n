@@ -1,7 +1,7 @@
 cd ~/autoshare
-rm -r -f ~/autoshare/N-MERLIN
-cp -r ~/Merlin ~/autoshare/N-MERLIN
-touch ~/autoshare/N-MERLIN/bugfix
+rm -r -f ~/autoshare/MERLIN/N-MERLIN
+cp -r ~/Merlin ~/autoshare/MERLIN/N-MERLIN
+touch ~/autoshare/N-MERLIN/MERLIN/bugfix
 git add --all
 git commit -m "avogadros numero"
 git push
