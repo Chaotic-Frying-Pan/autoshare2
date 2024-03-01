@@ -2,4 +2,3 @@ rm -r -f ~/Merlin
 mkdir ~/Merlin
 cd ~/Merlin
 merlin prepare
-touch ~/Merlin/bugfix_2
