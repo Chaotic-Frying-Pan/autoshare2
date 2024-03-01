@@ -1,2 +1,0 @@
-# autoshare
-auto share
