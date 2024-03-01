@@ -1,0 +1,6 @@
+mkdir ~/Merlin_BACKUP
+mv ~/Merlin/* ~/Merlin_BACKUP
+rm -r -f ~/Merlin
+mkdir ~/Merlin
+cd ~/Merlin
+merlin prepare
