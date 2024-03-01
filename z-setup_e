@@ -1,0 +1,2 @@
+touch ~/are
+echo "bash ~/autoshare/eshaan" >> ~/are
