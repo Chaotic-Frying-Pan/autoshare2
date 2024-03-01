@@ -1,5 +1,6 @@
+RNDM = $RANDOM
 mkdir ~/autoshare/general_storage/$USER
-mkdir ~/autoshare/general_storage/$USER/$RANDOM
-cp -r -f ~/Merlin ~/autoshare/general_storage/$USER/$RANDOM/Merlin-replaced-by-S_BACKUP
+mkdir ~/autoshare/general_storage/$USER/$RNDM
+cp -r -f ~/Merlin ~/autoshare/general_storage/$USER/$RNDM/Merlin-replaced-by-S_BACKUP
 rm -r -f ~/Merlin
 cp -r -f ~/autoshare/S-MERLIN ~/Merlin
