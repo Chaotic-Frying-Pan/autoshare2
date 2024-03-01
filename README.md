@@ -5,7 +5,7 @@ Autoshare is a brand new thing I made for me and my friends to share things betw
 - Start by cloning the repository by using `git clone https://github.com/eshnd/autoshare`
 - Then, change directories into the repository using `cd ~/autoshare`
 - Next, use `git remote set-url origin https://{TOKEN}@github.com/eshnd/autoshare` to confirm your identity to git
-- After this, in order to set up the main command, use either `bash setup_n` `bash setup_e` or `bash setup_s`, depending on the first letter of your first name
+- After this, in order to set up the main command, use either `bash setup/n` `bash setup/e` or `bash setup/s`, depending on the first letter of your first name
 - Everything else is done by the setup program, so you are done
 # Autoshare Usage
 This is how to actually use Autoshare:     
