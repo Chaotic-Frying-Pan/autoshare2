@@ -8,7 +8,13 @@ Autoshare is a brand new thing I made for me and my friends to share things betw
 - After this, in order to set up the main command, use either `bash setup_n` `bash setup_e` or `bash setup_s`, depending on the first letter of your first name
 - Everything else is done by the setup program, so you are done
 # Autoshare Usage
-This is how to actually use Autoshare:
+This is how to actually use Autoshare:     
 - The first step to using Autoshare is to test out the main command, which is `sh ~/are`, spelling "share". except with a space, tilde, and slash in the middle
 - That command will send your Merlin folder to your friends instantly
-- The other thing this can do is share any other files. Simply add a file to `~/autoshare/{FIRST LETTER OF NAME}_storage` and do `sh ~/are` and it will get shared to your friends
+- The other thing this can do is share any other files. Simply add a file to `~/autoshare/{lowercase first letter of name}_storage` and do `sh ~/are` and it will get shared to your friends
+# Autoshare Troubleshooting
+Troubleshooting will likely have to be done on some computers using this project. This is how you would do it (most likely):     
+- Troubleshooting in Autoshare will end up with your Merlin folder being deleted, but not before doing a full backup of it on this repository in case something goes wrong
+- Deleting Merlin will NOT erase any progress or any actual missions because all of your Merlin data is stored on CoderMerlin servers
+- By the end of the troubleshooting, all of your progress on CoderMerlin will still be in your main `~/Merlin` folder, but in case you have trouble finding something, you can always check in your storage folder, where your Merlin backup will be saved.
+- The first and (usually) only step for troubleshooting is to do `bash ~/autoshare/{lowercase first letter of name}-troubleshoot`
