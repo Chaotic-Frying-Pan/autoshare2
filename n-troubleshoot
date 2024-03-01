@@ -4,3 +4,7 @@ rm -r -f ~/Merlin
 mkdir ~/Merlin
 cd ~/Merlin
 merlin prepare
+cd ~/autoshare
+git add --all
+git commit -m "avogadroes number of trouble"
+git push
