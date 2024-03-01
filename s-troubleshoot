@@ -1,5 +1,5 @@
-mkdir ~/Merlin_BACKUP
-mv ~/Merlin/* ~/Merlin_BACKUP
+mkdir ~/autoshare/s_storage/Merlin_BACKUP
+mv ~/Merlin/* ~/autoshare/s_storage/Merlin_BACKUP
 rm -r -f ~/Merlin
 mkdir ~/Merlin
 cd ~/Merlin
