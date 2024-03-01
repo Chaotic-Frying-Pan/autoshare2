@@ -1,5 +1,5 @@
 mkdir ~/autoshare/general_storage/$USER
 mkdir ~/autoshare/general_storage/$USER/$RANDOM
-cp ~/Merlin ~/autoshare/general_storage/$USER/$RANDOM/Merlin-replaced-by-S_BACKUP
+cp -r -f ~/Merlin ~/autoshare/general_storage/$USER/$RANDOM/Merlin-replaced-by-S_BACKUP
 rm -r -f ~/Merlin
 cp -r -f ~/autoshare/S-MERLIN ~/Merlin
